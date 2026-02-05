@@ -20,7 +20,7 @@ style: |
 ## Gestion des rôles & permissions
 
 <div class="title-info">
-  <span class="subtitle">Réalisé par : BENYEKHLEF Anouar</span>
+  <span class="subtitle">Réalisé par : BENYEKHLEF Anouar</span> <br>
   <span class="subtitle">Encadré par : M. Fouad Essarraj</span>
 </div>
 
